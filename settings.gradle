@@ -1,0 +1,1 @@
+include ':Workorder', ':Location', ':Asset'
